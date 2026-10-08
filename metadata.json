@@ -1,0 +1,6 @@
+{
+  "name": "CareRoute AI",
+  "description": "Intelligent healthcare navigation, clinical specialty routing, and patient-centered care pathways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

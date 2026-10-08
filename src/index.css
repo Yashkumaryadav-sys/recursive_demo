@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@theme {
+  --color-surface: #faf8ff;
+  --color-surface-dim: #d2d9f4;
+  --color-surface-bright: #faf8ff;
+  --color-surface-container-lowest: #ffffff;
+  --color-surface-container-low: #f2f3ff;
+  --color-surface-container: #eaedff;
+  --color-surface-container-high: #e2e7ff;
+  --color-surface-container-highest: #dae2fd;
+  --color-on-surface: #131b2e;
+  --color-on-surface-variant: #3d4947;
+  --color-inverse-surface: #283044;
+  --color-inverse-on-surface: #eef0ff;
+  --color-outline: #6d7a77;
+  --color-outline-variant: #bcc9c6;
+  --color-surface-tint: #006a61;
+  --color-primary: #00685f;
+  --color-on-primary: #ffffff;
+  --color-primary-container: #008378;
+  --color-on-primary-container: #f4fffc;
+  --color-inverse-primary: #6bd8cb;
+  --color-secondary: #006398;
+  --color-on-secondary: #ffffff;
+  --color-secondary-container: #5bb8fe;
+  --color-on-secondary-container: #00476e;
+  --color-tertiary: #006860;
+  --color-on-tertiary: #ffffff;
+  --color-tertiary-container: #248279;
+  --color-on-tertiary-container: #f3fffc;
+  --color-error: #ba1a1a;
+  --color-on-error: #ffffff;
+  --color-error-container: #ffdad6;
+  --color-on-error-container: #93000a;
+  --color-primary-fixed: #89f5e7;
+  --color-primary-fixed-dim: #6bd8cb;
+  --color-on-primary-fixed: #00201d;
+  --color-on-primary-fixed-variant: #005049;
+  --color-secondary-fixed: #cce5ff;
+  --color-secondary-fixed-dim: #93ccff;
+  --color-on-secondary-fixed: #001d31;
+  --color-on-secondary-fixed-variant: #004b73;
+  --color-tertiary-fixed: #9cf2e8;
+  --color-tertiary-fixed-dim: #80d5cb;
+  --color-on-tertiary-fixed: #00201d;
+  --color-on-tertiary-fixed-variant: #00504a;
+  --color-background: #faf8ff;
+  --color-on-background: #131b2e;
+  --color-surface-variant: #dae2fd;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
